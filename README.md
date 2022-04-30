@@ -10,4 +10,5 @@ Sample website with plenty of files for demos
 Adding deployment
 
 ## New Section
-Adding New Section
+Adding New Section.
+Added new line
